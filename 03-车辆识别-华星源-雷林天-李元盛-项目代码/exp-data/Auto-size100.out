@@ -1,0 +1,15 @@
+start training Autoencoder
+training_iteration=10
+batch_size=32
+image_size=100
+
+test acc: 67.70%, loss: 0.6173
+test acc: 70.30%, loss: 0.5950
+test acc: 72.60%, loss: 0.5793
+test acc: 73.20%, loss: 0.5767
+test acc: 73.90%, loss: 0.5697
+test acc: 72.90%, loss: 0.5609
+test acc: 75.90%, loss: 0.5484
+test acc: 75.80%, loss: 0.5468
+test acc: 74.30%, loss: 0.5542
+test acc: 74.90%, loss: 0.5477

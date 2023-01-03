@@ -1,0 +1,15 @@
+start training ResNet
+training_iteration=10
+batch_size=128
+image_size=100
+
+test acc: 50.00%
+test acc: 50.00%
+test acc: 50.00%
+test acc: 50.00%
+test acc: 50.00%
+test acc: 50.00%
+test acc: 50.00%
+test acc: 47.00%
+test acc: 50.00%
+test acc: 50.00%

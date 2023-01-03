@@ -1,0 +1,16 @@
+nohup: ignoring input
+start training CNN
+training_iteration=10
+batch_size=32
+image_size=100
+
+test acc: 67.80%, loss: 0.6025
+test acc: 70.00%, loss: 0.5905
+test acc: 70.60%, loss: 0.5867
+test acc: 71.65%, loss: 0.5790
+test acc: 71.10%, loss: 0.5849
+test acc: 72.70%, loss: 0.5718
+test acc: 71.65%, loss: 0.5721
+test acc: 71.60%, loss: 0.5747
+test acc: 73.80%, loss: 0.5667
+test acc: 72.95%, loss: 0.5634

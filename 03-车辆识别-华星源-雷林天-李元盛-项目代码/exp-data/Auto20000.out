@@ -1,0 +1,26 @@
+nohup: ignoring input
+start training Autoencoder
+training_iteration=10
+batch_size=32
+image_size=100
+
+AUTOENCODER0
+AUTOENCODER1
+AUTOENCODER2
+AUTOENCODER3
+AUTOENCODER4
+AUTOENCODER5
+AUTOENCODER6
+AUTOENCODER7
+AUTOENCODER8
+AUTOENCODER9
+test acc: 66.85%, loss: 0.6119
+test acc: 70.50%, loss: 0.5913
+test acc: 71.90%, loss: 0.5764
+test acc: 72.60%, loss: 0.5738
+test acc: 72.75%, loss: 0.5687
+test acc: 72.40%, loss: 0.5646
+test acc: 73.10%, loss: 0.5581
+test acc: 74.25%, loss: 0.5535
+test acc: 74.00%, loss: 0.5540
+test acc: 74.10%, loss: 0.5493
